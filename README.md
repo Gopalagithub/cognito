@@ -1,11 +1,10 @@
-Title : AWS Cognito Authentication using Client Library
+#AWS Cognito Authentication using Client Library
 
 
-Tags : Node js + cognito + Authentication, javascript, es6, AWS, Amazon Cognito Client Library
+#Node js + cognito + Authentication, #javascript, #es6, #AWS, #Amazon Cognito Client Library
 
 
-Description : The purpose of this blog is to help the developers to consume the Cognito class file as it is for their project into a helper file.
-Let me explain the cognito class and its usage in step by step manner.
+The purpose of this blog is to help the developers to consume the Cognito class file as it is for their project into a helper file.Let me explain the cognito class and its usage in step by step manner.
 
 
 Step 1 : Import the npm packages
